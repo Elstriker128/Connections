@@ -1,0 +1,20 @@
+﻿table {
+    margin:auto;
+    text-align: center;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+}
+label {
+    font: bold;
+    font-size: 70px;
+    margin: auto;
+    padding: inherit;
+    display: inline-block;
+    text-align: center;
+}
+div{
+    display:grid;
+    place-items:center;
+}
+
